@@ -6,3 +6,5 @@
 ### cd app
 ### pip3 install flask
 ### flask run
+
+#### P.S Assuming you have NumPy and pandas pre-installed
